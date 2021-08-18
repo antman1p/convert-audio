@@ -1,5 +1,5 @@
 # convert-audio
-This pyhton3 script allows you to convert audio formats
+This pyhton3 script allows you to convert audio file formats for all of the audio files of the same type in a directory.
 ## Dependencies
 `pip install ffmpeg`\
 `pip install pydub`
